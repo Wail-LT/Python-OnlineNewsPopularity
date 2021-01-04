@@ -60,7 +60,7 @@ Nous avons par la suite utilisé l'outils PostMan afin de tester l'api comme il 
 
 ## Technologies 
 
-- Python : L'ensemble du projet
+- Python / Jupyter : L'ensemble du projet
 - SKLearn : Modèles de ML
 - Pandas : Gestion des données
 - Seaborn / Matplotlib : Visualisation des données
